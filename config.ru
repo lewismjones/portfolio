@@ -1,2 +1,2 @@
-require "./portfolioserver.rb"
+require "portfolioserver.rb"
 run Sinatra::Application
